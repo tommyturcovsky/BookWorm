@@ -1,0 +1,62 @@
+html {
+
+}
+
+body {
+    
+    background-color: rgb(105, 108, 158);
+    min-height: 100%;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2 {
+    font-variant: small-caps;
+}
+
+h3, h4 {
+    font-family: cursive;
+}
+
+.heading-container {
+    border-bottom: solid 1.5px;
+    padding: .5rem;
+    margin-bottom: 1rem;
+    background-color: #fafbff
+}
+
+.bookWorm-heading {
+    display: inline;
+}
+
+.bookWorm-subheading {
+    display: inline;
+    font-style: italic;
+}
+
+.myList {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #c6ccd369;
+}
+
+.my-list-heading-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffffff;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 4px 0 rgba(0, 0, 0, 0.19);
+    border: solid 1px;
+    border-radius: 5px;
+}
+
+.list-cards {
+    background-color: #ffffff;
+    border-color: #000000;
+}
+
+.grouped-buttons {
+    display: flex;
+    flex-direction: column;
+}
