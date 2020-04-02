@@ -42,7 +42,7 @@ class BookSearch extends React.Component {
                         </a>
                     </div>
                     <div className="row my-list-heading-container myList">
-                        <div className="container my-3 search-bar-container ">
+                        <div className="container my-3 search-bar-container">
                             
                             <div>
                                 <label className="pr-2 search-label">Title</label>
@@ -61,7 +61,7 @@ class BookSearch extends React.Component {
                                 <Button variant="success"
                                     onClick={() => this.searchForBooks(request)}
                                     className="search-button" type="submit">Search
-                                    </Button>
+                                </Button>
                             </div>
                         </div>
                         <div className="container">
