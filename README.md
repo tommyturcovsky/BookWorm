@@ -9,3 +9,10 @@ https://bookworm-book-tracking.herokuapp.com/
 - GoogleBooks API
 - ReactJS and Redux
 - NodeJS
+
+## App Screenshots
+#### My List View
+<img src="https://drive.google.com/uc?id=1sGEVSKM-Qn2VKDjF5851SEqyh-9_XEbZ" width=600>
+
+#### Search View
+<img src="https://drive.google.com/uc?id=1bnCO6xhVTx4d5okxsC61qpdcLUhmueBq" width=600>
