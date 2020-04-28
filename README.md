@@ -11,8 +11,8 @@ https://bookworm-book-tracking.herokuapp.com/
 - NodeJS
 
 ## App Screenshots
-#### My List View
-<img src="https://drive.google.com/uc?id=1sGEVSKM-Qn2VKDjF5851SEqyh-9_XEbZ" width=600>
+#### My Book List View
+![Book List](https://github.com/tommyturcovsky/BookWorm/blob/master/screenshots/bookList.png "Book List Page")
 
 #### Search View
-<img src="https://drive.google.com/uc?id=1bnCO6xhVTx4d5okxsC61qpdcLUhmueBq" width=600>
+![Book List](https://github.com/tommyturcovsky/BookWorm/blob/master/screenshots/bookSearch.png "Book List Page")
